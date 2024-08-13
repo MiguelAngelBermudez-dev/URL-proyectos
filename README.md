@@ -2,7 +2,7 @@
 ## Pagina de fans de los red hot chilli Peppers
 * https://redhotchilipeppersfanpage.s3.eu-north-1.amazonaws.com/index.html
 ## AhorroPokect
-* https://ahorropocket.000webhostapp.com
+* https://ahorropocket.000webhostapp.com/index.php
 ## Tienda de frutas
 * https://comefrutas.kesug.com
 ## curriculum
