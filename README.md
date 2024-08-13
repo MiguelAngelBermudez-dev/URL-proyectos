@@ -1,6 +1,6 @@
 # URL-proyectos
 ## Pagina de fans de los red hot chilli Peppers
-* https://redhotchilipeppersfanpage.s3.eu-north-1.amazonaws.com/index.htm
+* https://redhotchilipeppersfanpage.s3.eu-north-1.amazonaws.com/index.html
 ## AhorroPokect
 * https://ahorropocket.000webhostapp.com
 ## Tienda de frutas
